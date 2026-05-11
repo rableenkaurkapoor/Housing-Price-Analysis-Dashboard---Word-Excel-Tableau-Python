@@ -16,17 +16,6 @@ This project analyzes house pricing trends, property characteristics, and locati
 
 ---
 
-## Project Files
-- Excel Dashboard
-- Tableau Dashboard
-- Power BI Dashboard
-- Python Dashboard
-- Project Presentation (PPT)
-- Dataset File
-- Dashboard Images
-
----
-
 ## Dashboard Images
 
 ### Excel Dashboard
@@ -77,3 +66,12 @@ This project demonstrates a complete multi-tool data analysis workflow using Exc
 
 ## About
 In this project, I analyzed housing market trends and property pricing factors using Excel, Tableau and Python. Built dashboards, KPIs, geographic analysis, and visual storytelling reports to identify pricing patterns and support data-driven decision-making.
+
+## Project Files
+- Excel Dashboard
+- Tableau Dashboard
+- Power BI Dashboard
+- Python Dashboard
+- Project Presentation (PPT)
+- Dataset File
+- Dashboard Images
