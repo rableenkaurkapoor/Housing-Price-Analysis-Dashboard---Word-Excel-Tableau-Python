@@ -9,7 +9,6 @@ This project analyzes house pricing trends, property characteristics, and locati
 - Word
 - Excel
 - Tableau
-- Power BI
 - Python
 - Data Visualization
 - KPI Reporting
